@@ -1,0 +1,7 @@
+{
+  "name": "Voice events",
+  "version": "1.0.0",
+  "description": "Adds TTS event to your selected voice channel.",
+  "author": "ugly-patootie#0611",
+  "license": "MIT"
+}
